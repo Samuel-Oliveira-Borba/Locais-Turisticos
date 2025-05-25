@@ -2,7 +2,6 @@
     max-width: 1128px;
     margin-inline: auto;
 
-
     header {
         img {
             border-radius: 2.8rem;
@@ -15,4 +14,12 @@
             text-align: center;
         }
     }
+
+    .divider {
+        height: 1px;
+        background: var(--border-primary);
+        margin-block: 4rem;
+    }
+
+
 }
